@@ -1,0 +1,13 @@
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\bin\Debug\TCP Server Sample.exe.config
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\bin\Debug\TCP Server Sample.exe
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\bin\Debug\TCP Server Sample.pdb
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.csprojResolveAssemblyReference.cache
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP_Server_Sample.Form1.resources
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP_Server_Sample.Properties.Resources.resources
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.csproj.GenerateResource.Cache
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.exe
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.pdb
+C:\Users\Gytis\documents\visual studio 2015\Projects\TCP Server Sample\TCP Server Sample\bin\Debug\SynchronousTCPServer_1.0.0.pdb
+C:\Cloud\OneDrive\Github\C#\Synchronous TCP Server Sample\TCP Server Sample\bin\Debug\TCP Server Sample.exe.config
+C:\Cloud\OneDrive\Github\C#\Synchronous TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.exe
+C:\Cloud\OneDrive\Github\C#\Synchronous TCP Server Sample\TCP Server Sample\obj\Debug\TCP Server Sample.pdb
